@@ -1,0 +1,107 @@
+{
+  "manifest_version": 2,
+  "name": "Groovy Light Theme",
+  "version": "1.0",
+
+  "theme": {
+    "colors": {
+      // Color of the window frame
+      "frame": "#f2e5bc", // light0_soft
+      // Background color of the new tab page
+      "ntp_background": "#f2e5bc", // light0_soft
+      // Color of the separator line at the top of the toolbar
+      "toolbar_top_separator": "#f2e5bc", // light0_soft
+
+      // Background color of the toolbar and tabs
+      "toolbar": "#fbf1c7", // light0
+
+      // Background color of text fields in the toolbar
+      "toolbar_field": "#ebdbb2", // light1
+
+      // Color of the border around text fields in the toolbar in focus
+      "toolbar_field_border_focus": "#bdae93", // bg3
+
+      // Background color of highlighted fields in the toolbar
+      "toolbar_field_highlight": "#bdae93", // bg3
+
+      // Text color of highlighted fields in the toolbar
+      "toolbar_field_highlight_text": "#3c3836", // fg
+
+      // Background color of highlighted items in a popup window
+      "popup_highlight": "#bdae93", // bg3
+
+      // Text color of highlighted items in a popup window
+      "popup_highlight_text": "#3c3836", // fg
+
+      // Text color of the currently selected tab
+      "tab_background_text": "#3c3836", // fg
+      "sidebar": "#f2e5bc", // light0_soft
+      "sidebar_text": "#3c3836", // fg
+      // "sidebar_border": "#928374",
+      "sidebar_highlight": "#ebdbb2", // light1
+      "popup": "#f2e5bc", // light0_soft
+      "popup_text": "#3c3836", // fg
+      "toolbar_field_text": "#3c3836", // fg
+      "icons": "#3c3836" // fg
+
+      ////////////////////////////
+
+      // // Text color of bookmarks
+      // "bookmark_text": "#504945", // dark2
+
+      // // Text color in text fields in the toolbar
+      // "toolbar_field_text": "#665c54", // dark3
+
+      // // Text color of the toolbar
+      // "toolbar_text": "#7c6f64", // dark4
+
+      // // Color of the separator line at the bottom of the toolbar
+      // "toolbar_bottom_separator": "#928374", // gray_244
+
+      // // Color of the vertical separator in the toolbar
+      // "toolbar_vertical_separator": "#928374", // gray_244
+
+      // // Color of the line underneath a tab
+      // "tab_line": "#fb4934", // bright_red
+
+      // // Color of the loading indicator on tabs
+      // "tab_loading": "#cc241d", // neutral_red
+
+      // // Background color of sidebars
+      // "sidebar": "#ebdbb2", // light1
+
+      // // Color of the sidebar border
+      // "sidebar_border": "#928374", // gray_244
+
+      // // Text color in the sidebar
+      // "sidebar_text": "#3c3836", // dark1
+
+      // // Background color of highlighted items in the sidebar
+      // "sidebar_highlight": "#fb4934", // bright_red
+
+      // // Text color of highlighted items in the sidebar
+      // "sidebar_highlight_text": "#3c3836", // dark1
+
+      // // Color of the separator inside text fields in the toolbar
+      // // "toolbar_field_separator": "#928374", // gray_244
+
+      // // Background color of active buttons
+      // "button_background_active": "#fb4934", // bright_red
+
+      // // Background color of hovered buttons
+      // "button_background_hover": "#cc241d", // neutral_red
+
+      // // Text color of the new tab page
+      // "ntp_text": "#3c3836", // dark1
+
+      // // Background color of popup windows
+      // "popup": "#ebdbb2", // light1
+
+      // // Text color of popup windows
+      // "popup_text": "#3c3836", // dark1
+
+      // // Border color of popup windows
+      // "popup_border": "#928374", // gray_244
+    }
+  }
+}
